@@ -10,11 +10,11 @@ Hello! I'm Shashank, a tech enthusiast and a passionate learner. My goal is to c
 - **Data Analysis:** Pandas, NumPy
 
 ## Projects
-1. [Project 1](https://github.com/shashankgaming95-lab/project1) - A web application built with React and Node.js.
-2. [Project 2](https://github.com/shashankgaming95-lab/project2) - Data analysis project using Python and Pandas.
+1. [Project 1](https://github.com/shashankgaming95-lab/vityarthi_project01) - An intelligent system to analyze daily user inputs and generate personalized routines and recommendations.
+2. [Project 2](https://github.com/shashankgaming95-lab/M.A.S-GATE) - Enterprise‑grade file upload security with AI‑driven risk scoring, real‑time mobile alerts, and multi‑layer threat detection.
 
 ## Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/shashank)
-- [Twitter](https://twitter.com/shashank)
+- [LinkedIn](https://www.linkedin.com/in/shashank-770663370/)
+- [Kaggle](https://www.kaggle.com/shashu2810)
 
 Feel free to reach out if you'd like to collaborate or just want to chat!
