@@ -10,7 +10,9 @@ I would greatly appreciate it if you could consider granting me an extension unt
 
 Best regards,  
 [Shashank]
+
 [25BAI10569]
+
 [BTECH CSE AI and ML]
 
 # Email 2: Inquiry Regarding Summer Internship Opportunities
@@ -27,6 +29,9 @@ Thank you for your time, and I look forward to your response.
 
 Sincerely,  
 [SHASHANK]
+
 [7550107090]
+
 [VIT BHOPAL]
+
 [BTech CSE AI and ML]
