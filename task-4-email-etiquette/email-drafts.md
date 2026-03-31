@@ -9,9 +9,9 @@ I hope this message finds you well. I am writing to request an extension on the 
 I would greatly appreciate it if you could consider granting me an extension until [Proposed New Due Date]. Thank you for your understanding, and I look forward to your reply.
 
 Best regards,  
-Shashank 
-25BAI10569
-BTECH CSE AI and ML
+[Shashank]
+[25BAI10569]
+[BTECH CSE AI and ML]
 
 # Email 2: Inquiry Regarding Summer Internship Opportunities
 
@@ -26,7 +26,7 @@ I am particularly interested in joining tech deparment for internship, and I bel
 Thank you for your time, and I look forward to your response.
 
 Sincerely,  
-SHASHANK
-7550107090 
-VIT BHOPAL 
-BTech CSE AI and ML
+[SHASHANK]
+[7550107090]
+[VIT BHOPAL]
+[BTech CSE AI and ML]
